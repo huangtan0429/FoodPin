@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2D0E877E272FDDD800CB5DCC /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D0E877D272FDDD800CB5DCC /* TableViewCell.swift */; };
 		2DD31735272FC2950000D162 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DD31734272FC2950000D162 /* AppDelegate.swift */; };
 		2DD31737272FC2950000D162 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DD31736272FC2950000D162 /* SceneDelegate.swift */; };
 		2DD3173C272FC2950000D162 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2DD3173A272FC2950000D162 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2D0E877D272FDDD800CB5DCC /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 		2DD31731272FC2950000D162 /* FoodPin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FoodPin.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2DD31734272FC2950000D162 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2DD31736272FC2950000D162 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				2DD3173F272FC2960000D162 /* LaunchScreen.storyboard */,
 				2DD31742272FC2960000D162 /* Info.plist */,
 				2DD3174A272FC72A0000D162 /* TableViewController.swift */,
+				2D0E877D272FDDD800CB5DCC /* TableViewCell.swift */,
 			);
 			path = FoodPin;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2DD31735272FC2950000D162 /* AppDelegate.swift in Sources */,
+				2D0E877E272FDDD800CB5DCC /* TableViewCell.swift in Sources */,
 				2DD3174B272FC72A0000D162 /* TableViewController.swift in Sources */,
 				2DD31737272FC2950000D162 /* SceneDelegate.swift in Sources */,
 			);
